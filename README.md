@@ -70,11 +70,11 @@ Please observe the following standard C coding practices:
 
 # Instructions
 
-- Add a 't' command to draw an arrow.  This primarily consists of  (1) defining a  function
+- DONE - Add a 't' command to draw an arrow.  This primarily consists of  (1) defining a  function
   print_arrow() in print_shapes.c, and (2) adding a command "t" to uimain.c.  Be sure to insert
   appropriate declarations into appropriate "include" files to enable uimain's call to "print_arrow."  
 
-- You will independently add another font to this project.  
+- You will independently add another font to this Project.  
   You are welcome to use either the 5x7 or 8x12 fonts we provide.  
   To reference the font file, you'll also need to modify the Makefile.
   
